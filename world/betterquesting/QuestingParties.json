@@ -1,0 +1,44 @@
+{
+  "parties:9": {
+    "0:10": {
+      "members:9": {
+        "0:10": {
+          "uuid:8": "780f5e3c-b0fe-48ba-9e69-082de738dd9b",
+          "status:8": "MEMBER"
+        },
+        "1:10": {
+          "uuid:8": "73772fe2-f0ab-46ab-8b95-8d36912e7d49",
+          "status:8": "MEMBER"
+        },
+        "2:10": {
+          "uuid:8": "30425fbb-6598-46fe-8892-321baa692da0",
+          "status:8": "OWNER"
+        }
+      },
+      "partyID:3": 0,
+      "properties:10": {
+        "betterquesting:10": {
+          "partysinglereward:1": 0,
+          "partysharelives:1": 0,
+          "name:8": "%%%"
+        }
+      }
+    },
+    "1:10": {
+      "members:9": {
+        "0:10": {
+          "uuid:8": "30425fbb-6598-46fe-8892-321baa692da0",
+          "status:8": "OWNER"
+        }
+      },
+      "partyID:3": 1,
+      "properties:10": {
+        "betterquesting:10": {
+          "partysinglereward:1": 0,
+          "partysharelives:1": 0,
+          "name:8": "New Party"
+        }
+      }
+    }
+  }
+}

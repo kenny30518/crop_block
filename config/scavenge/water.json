@@ -1,0 +1,30 @@
+{
+	"block_pools" :
+	[
+		{
+			"name": "water",
+			"type":
+			{
+				"type": "block",
+				"name": "rustic:liquid_barrel"
+			},
+			"clicktype": "both",
+			"properties":
+			[
+				{
+					"type": "require_item",
+					"name": "mysticalagriculture:water_essence"
+				},
+				{
+					"type": "consume_item",
+					"amount": 1
+				},
+				{
+					"type": "tile_add_fluid",
+					"name": "water"
+				}
+			]
+		}
+	]
+}
+ 

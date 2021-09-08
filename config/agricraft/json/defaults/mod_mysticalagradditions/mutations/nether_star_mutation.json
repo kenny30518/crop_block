@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagradditions/mutations/nether_star_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "nether_star_plant",
+  "parent1": "wither_skeleton_plant",
+  "parent2": "nether_plant"
+}

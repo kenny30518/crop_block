@@ -1,0 +1,21 @@
+[00:00:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [paul776618: Kicked KennyChen from the game]
+[00:00:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KennyChen lost connection: Kicked by an operator.
+[00:00:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KennyChen left the game
+[00:00:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [paul776618: Kicked paul776618 from the game]
+[00:00:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: paul776618 lost connection: Kicked by an operator.
+[00:00:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: paul776618 left the game
+[00:02:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[00:02:07] [Server thread/INFO] [Mekanism]: VoiceServer: Shutting down server...
+[00:02:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:02:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[00:02:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[00:02:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[00:02:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/Storage Cell
+[00:02:08] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 0
+[00:02:08] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 2
+[00:02:08] [Server thread/INFO] [FML]: Unloading dimension 0
+[00:02:08] [Server thread/INFO] [FML]: Unloading dimension 2
+[00:02:08] [Server thread/INFO] [Actually Additions]: Unloaded WorldData!
+[00:02:08] [Server thread/INFO] [endertanks]: Unloading EnderTank Data
+[00:02:08] [Server thread/INFO] [multistorage]: Unloading EnderLink Chest Data
+[00:02:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server

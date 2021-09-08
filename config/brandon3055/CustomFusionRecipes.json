@@ -1,0 +1,21 @@
+[
+    {
+        "mode": "ADD",
+        "result": "actuallyadditions:item_misc,1,20",
+        "catalyst": "draconicevolution:chaos_shard,1,1",
+        "energy": 10000,
+        "tier": 3,
+        "ingredients": [
+            "immersiveengineering:fluorescent_tube",
+            "immersiveengineering:fluorescent_tube",
+            "draconicevolution:chaos_shard,1,2",
+            "draconicevolution:chaos_shard,1,2",
+            "immersiveengineering:fluorescent_tube",
+            "immersiveengineering:fluorescent_tube",
+            "draconicevolution:chaos_shard,1,2",
+            "draconicevolution:chaos_shard,1,2",
+            "immersiveengineering:fluorescent_tube",
+            "immersiveengineering:fluorescent_tube"
+        ]
+    }
+]

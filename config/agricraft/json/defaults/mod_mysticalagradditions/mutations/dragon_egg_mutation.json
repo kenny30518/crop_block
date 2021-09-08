@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagradditions/mutations/dragon_egg_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "dragon_egg_plant",
+  "parent1": "chicken_plant",
+  "parent2": "draconium_plant"
+}

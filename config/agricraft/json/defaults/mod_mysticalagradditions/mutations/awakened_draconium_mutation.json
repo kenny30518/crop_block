@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagradditions/mutations/awakened_draconium_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "awakened_draconium_plant",
+  "parent1": "dragon_egg_plant",
+  "parent2": "draconium_plant"
+}
