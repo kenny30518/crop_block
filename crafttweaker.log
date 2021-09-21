@@ -15,7 +15,7 @@
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: recipes.zs}
 [INITIALIZATION][SERVER][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_creative for Creative Vending Upgrade
 [INITIALIZATION][SERVER][INFO] Adding VACUUM_FREEZER_RECIPE recipe for Ember Crystal
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@7c3f72ca, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[3xitem.draconicevolution:chaos_shard@3], chance=0.0), fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=100); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@d5dba99, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[3xitem.draconicevolution:chaos_shard@3], chance=0.0), fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=100); 
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: remove.zs}
 [INITIALIZATION][SERVER][INFO] Altering Alloy Recipe(s) for <liquid:invar>
 [INITIALIZATION][SERVER][INFO] Altering Alloy Recipe(s) for <liquid:constantan>
@@ -49,13 +49,13 @@
 [INITIALIZATION][SERVER][INFO] Altering Alloy Recipe(s) for <liquid:electrumflux>
 [INITIALIZATION][SERVER][INFO] Removing CENTRIFUGE_RECIPE recipe for Redstone
 [INITIALIZATION][SERVER][INFO] Removing INDUSTRIAL_ELECTROLYZER_RECIPE recipe for Chrome Dust
-[INITIALIZATION][SERVER][INFO] Removing Mixer recipes with output: net.minecraftforge.fluids.FluidStack@ebc8ebb3
-[INITIALIZATION][SERVER][INFO] Removing Mixer recipes with output: net.minecraftforge.fluids.FluidStack@db26fa13
-[INITIALIZATION][SERVER][INFO] Removing Mixer recipes with output: net.minecraftforge.fluids.FluidStack@a3cace7
-[INITIALIZATION][SERVER][INFO] Removing 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@34492ab6, fluidStack=null, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@f45ef7e, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
-[INITIALIZATION][SERVER][INFO] Removing 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@5579d040, fluidStack=null, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@4809daeb, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
-[INITIALIZATION][SERVER][INFO] Removing 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient$1@31e22365, fluidStack=net.minecraftforge.fluids.FluidStack@b8d117ae, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@1e874e3f, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=100); 
-[INITIALIZATION][SERVER][INFO] Removing 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@7aeb01b7, fluidStack=null, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@3b0f215f, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=100); 
+[INITIALIZATION][SERVER][INFO] Removing Mixer recipes with output: net.minecraftforge.fluids.FluidStack@2004606b
+[INITIALIZATION][SERVER][INFO] Removing Mixer recipes with output: net.minecraftforge.fluids.FluidStack@87a2437f
+[INITIALIZATION][SERVER][INFO] Removing Mixer recipes with output: net.minecraftforge.fluids.FluidStack@577d3f15
+[INITIALIZATION][SERVER][INFO] Removing 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@1831366a, fluidStack=null, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@7791a7e9, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Removing 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@205963fb, fluidStack=null, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@778ca335, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Removing 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient$1@31e22365, fluidStack=net.minecraftforge.fluids.FluidStack@d4ce892b, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@1624a85f, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=100); 
+[INITIALIZATION][SERVER][INFO] Removing 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@41262756, fluidStack=null, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@5cac1902, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=100); 
 [INITIALIZATION][SERVER][INFO] Removing ArcFurnace Recipe for Constantan Ingot
 [INITIALIZATION][SERVER][INFO] Removing ArcFurnace Recipe for Electrum Ingot
 [INITIALIZATION][SERVER][INFO] Removing ArcFurnace Recipe for Steel Ingot
@@ -70,7 +70,7 @@
 [INITIALIZATION][SERVER][INFO] Removing ArcFurnace Recipe for Dark Steel Ingot
 [INITIALIZATION][SERVER][INFO] Removing ArcFurnace Recipe for Soularium Ingot
 [INITIALIZATION][SERVER][INFO] Removing Squeezer Recipes for ItemStack HOP Graphite Dust
-[INITIALIZATION][SERVER][INFO] Completed script loading in: 551ms
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 473ms
 [POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "immersiveengineering:material/gunpowder0"
 [POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "immersiveengineering:material/gunpowder1"
 [POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "thermalfoundation:gunpowder"
